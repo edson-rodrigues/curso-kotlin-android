@@ -47,8 +47,9 @@ Segue um exemplo de como somar dois números recebidos como entrada pelo usuári
 
 ### Acessando via Android Studio
 
-O Android Studio também possui um compilador de Kotlin embutido, parecido com a IDLE do Python, que 
-roda uma linha de código de cada vez. Para acessá-lo, ao abrir o Android Studio:
+O Android Studio também possui um compilador de Kotlin embutido, parecido com a IDLE do Python.
+
+Para acessá-lo, ao abrir o Android Studio:
 
 - Crie um novo projeto em **Start a new Android Studio project**.
 
@@ -74,10 +75,9 @@ o contexto do módulo, selecione o nome do seu projeto.
 
 ![](https://i.imgur.com/qR1s5uG.png)
 
-- Digite uma linha de código e pressione <kbd>CTRL</kbd>+<kbd>Enter</kbd> para executar. Segue um 
-exemplo de como somar dois números recebidos como entrada pelo usuário.
-
-Em caso de entrada de usuário, após inserir cada valor, deverá pressionado <kbd>CTRL</kbd>+<kbd>Enter</kbd> 
-para que os valores sejam aceitados como entrada pelo programa.
+- Digite o programa na caixa de texto e pressione <kbd>CTRL</kbd>+<kbd>Enter</kbd> para executar. Segue um 
+exemplo de como somar dois números recebidos como entrada pelo usuário (após inserir cada valor,
+deverá pressionado <kbd>CTRL</kbd>+<kbd>Enter</kbd> para que os valores sejam aceitos como entrada
+pelo programa).
 
 ![](https://i.imgur.com/rnFOcrl.png)
